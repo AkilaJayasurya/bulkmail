@@ -38,7 +38,7 @@ function App() {
   function send()
   {
     setstatus(true)
-    axios.post("http://localhost:5000/sendemail",{msg:msg,emailList:emailList})
+    axios.post("https://bulkmail-rgp3.onrender.com",{msg:msg,emailList:emailList})
     .then(function(data)
     {
       if(data.data === true)
