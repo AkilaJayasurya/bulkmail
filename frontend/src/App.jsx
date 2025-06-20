@@ -38,7 +38,7 @@ function App() {
   function send()
   {
     setstatus(true)
-    axios.post("https://bulkmail-rgp3.onrender.com",{msg:msg,emailList:emailList})
+    axios.post("https://bulkmail-fe-m6ji.onrender.com",{msg:msg,emailList:emailList})
     .then(function(data)
     {
       if(data.data === true)
