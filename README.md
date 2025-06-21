@@ -27,21 +27,20 @@
 
 ## 📁 Project Structure
 
-BulkMail (MERN APP)/
-│
-├── Backend/ # Express server & email logic
-│ ├── index.js # Main backend file (sendEmail API)
-│ └── .env # Stores MongoDB URI & secrets
-│
-├── Frontend/ # React frontend
-│ ├── public/
-│ └── src/
-│ ├── App.jsx # UI and logic for file upload and email
-│ ├── index.css
-│ ├── main.jsx
-│ └── assets/
-│ ├── vite.config.js
-│ └── index.html
-│
-└── README.md # Project overview and instructions
+BulkMail (MERN APP)  
+├── Backend/ – Express server & email logic  
+│   ├── index.js – Main backend file (sendEmail API)  
+│   └── .env – Stores MongoDB URI & secrets  
+├── Frontend/ – React frontend  
+│   ├── public/  
+│   └── src/  
+│       ├── App.jsx – UI and logic for file upload and email  
+│       ├── index.css  
+│       ├── main.jsx  
+│       └── assets/  
+├── vite.config.js  
+├── index.html  
+└── README.md – Project overview and instructions
+
+
 
