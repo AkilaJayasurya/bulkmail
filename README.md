@@ -1,17 +1,17 @@
 # 📬 BulkMail - MERN Stack Application
 
-**BulkMail** is a full-stack email broadcasting application built using the **MERN stack**. It allows users to upload an Excel file containing email addresses and send a custom message to all valid recipients in one click.
+**BulkMail** is a robust full-stack email broadcasting tool developed with the **MERN stack**. It allows users to upload an Excel file containing email addresses and send a custom message to all valid recipients in one click.
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- 📂 Upload Excel files (`.xlsx` or `.xls`)
-- 📬 Automatically extract valid email addresses
-- ✉️ Compose and send bulk messages
-- ✅ Email validation before sending
-- 🔢 View the number of recipients before sending
-- 🗄️ Connected to MongoDB for secure credential storage
+- 📂 Supports uploading of Excel files (.xlsx / .xls)
+- 📬 Automatically detects and extracts valid email addresses
+- 📨 Compose and deliver personalized bulk emails
+- ✅ Built-in email validation before sending
+- 👥 View recipient count prior to sending
+- 🔒 Securely stores email credentials using MongoDB
 
 ---
 
