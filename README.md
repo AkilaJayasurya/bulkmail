@@ -1,4 +1,4 @@
-# 📧 BulkMail MERN App
+# 📬 BulkMail - MERN Stack Application
 
 **BulkMail** is a full-stack email broadcasting application built using the **MERN stack**. It allows users to upload an Excel file containing email addresses and send a custom message to all valid recipients in one click.
 
