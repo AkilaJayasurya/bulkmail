@@ -42,5 +42,12 @@ BulkMail (MERN APP)
 ├── index.html  
 └── README.md – Project overview and instructions
 
+## 🌐 Live Demo
+
+🚀 Deployed Application: [BulkMail Live](https://bulkmail-fe-m6ji.onrender.com)
+
+Click the link above to try out the BulkMail app in action!
+
+
 
 
